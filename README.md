@@ -19,3 +19,15 @@ El contenido está organizado por carpetas según la temática:
 Cada carpeta contiene varios archivos `.md`, cada uno representando un aprendizaje diferente.
 
 ---
+## ✍️ ¿Qué considero un TIL?
+
+Un TIL es una nota corta que explica algo que aprendí, entendí mejor o descubrí en un momento concreto.  
+Puede ser:
+
+- Una función que no conocía o cuyo comportamiento he comprendido mejor.  
+- Una propiedad de CSS que me ha resultado útil o sorprendente.  
+- Un detalle semántico de HTML que aporta claridad al documento.  
+- Un patrón de código cuyo propósito entiendo de forma más profunda.  
+- Un error que resolví y cuyo proceso quiero recordar.  
+
+No tiene por qué ser algo complejo; la clave es que sea **útil** para mí en el futuro.
