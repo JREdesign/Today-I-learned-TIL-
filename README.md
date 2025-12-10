@@ -42,3 +42,10 @@ No tiene por qué ser algo complejo; la clave es que sea **útil** para mí en e
 - Dejar que el repositorio crezca poco a poco, sin presión y sin reglas estrictas.
 
 ---
+
+## 🚀 Cómo contribuir (aunque sea un proyecto personal)
+
+Aunque este repositorio está pensado para uso personal, cualquier sugerencia, corrección o idea útil siempre será bienvenida.  
+Puedes abrir un **issue** para comentar cualquier detalle o enviar un **pull request** si quieres aportar algo específico.
+
+---
