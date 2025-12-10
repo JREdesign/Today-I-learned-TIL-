@@ -31,3 +31,14 @@ Puede ser:
 - Un error que resolví y cuyo proceso quiero recordar.  
 
 No tiene por qué ser algo complejo; la clave es que sea **útil** para mí en el futuro.
+---
+
+## 📜 Filosofía del repositorio
+
+- Mantener las entradas cortas, claras y enfocadas.  
+- Priorizar la constancia sobre la perfección o la amplitud.  
+- Usar ejemplos mínimos para ilustrar los conceptos.  
+- Evitar convertir este TIL en un repositorio de proyectos; es una libreta técnica.  
+- Dejar que el repositorio crezca poco a poco, sin presión y sin reglas estrictas.
+
+---
