@@ -31,8 +31,8 @@ Puede ser:
 - Un error que resolví y cuyo proceso quiero recordar.  
 
 No tiene por qué ser algo complejo; la clave es que sea **útil** para mí en el futuro.
----
 
+---
 ## 📜 Filosofía del repositorio
 
 - Mantener las entradas cortas, claras y enfocadas.  
@@ -42,10 +42,22 @@ No tiene por qué ser algo complejo; la clave es que sea **útil** para mí en e
 - Dejar que el repositorio crezca poco a poco, sin presión y sin reglas estrictas.
 
 ---
-
 ## 🚀 Cómo contribuir (aunque sea un proyecto personal)
 
 Aunque este repositorio está pensado para uso personal, cualquier sugerencia, corrección o idea útil siempre será bienvenida.  
 Puedes abrir un **issue** para comentar cualquier detalle o enviar un **pull request** si quieres aportar algo específico.
+
+---
+## 🧭 Navegación rápida
+
+- 👉 [JavaScript](./javascript/)  
+- 👉 [CSS](./css/)  
+- 👉 [HTML](./html/)  
+
+---
+
+## 🪴 Estado del repositorio
+
+Este TIL está en constante crecimiento y no tiene una estructura cerrada; se irá expandiendo conforme aprenda cosas nuevas y encuentre temas que merecen quedar registrados. No existe un límite de tamaño ni una frecuencia obligatoria, ya que el espíritu de este proyecto es mantener un aprendizaje natural, ligero y sostenido en el tiempo.
 
 ---
